@@ -65,9 +65,9 @@ curl -o setup.sh https://raw.githubusercontent.com/kurosewu/multi/main/setup.sh 
 ```
 <b>Install BBR For Maximum Speed</b>
 ```
-wget -q https://raw.githubusercontent.com/kurosewu/multi/main/bbr.sh && chmod +x bbr.sh && ./bbr.sh && rm bbr.sh && rm install_bbr.log
+wget -q https://raw.githubusercontent.com/kurosewu/dogter/main/bbr.sh && chmod +x bbr.sh && ./bbr.sh && rm bbr.sh && rm install_bbr.log
 ```
 <b>Alternative To Install BBR If It's An Error</b>
 ```
-curl -o https://raw.githubusercontent.com/kurosewu/multi/main/bbr.sh && chmod +x bbr.sh && ./bbr.sh && rm bbr.sh && rm install_bbr.log
+curl -o https://raw.githubusercontent.com/kurosewu/dogter/main/bbr.sh && chmod +x bbr.sh && ./bbr.sh && rm bbr.sh && rm install_bbr.log
 ```
