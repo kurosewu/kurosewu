@@ -14,6 +14,8 @@
 <br><a href="https://m.me/zan404"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/messenger.svg" height='50'> </a>
 <br>Telegram
 <br><a href="https://t.me/zann404"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height='50'> </a><br>
+<br>WhatsApp 
+<br><a href="https://wa.me/6283875176829"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" height='50'> </a><br>
 
 # OS Supported
 * <b>DEBIAN</b>
