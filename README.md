@@ -2,6 +2,7 @@
 <p align="center"><img src="https://img.shields.io/badge/VERSION-V3.0 (LATEST VERSION)-green.svg"></p>
 <p align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'></p><br>
 <p align="center"><img src="https://img.shields.io/badge/DEBIAN-9-red.svg"> <img src="https://img.shields.io/badge/DEBIAN-10-red.svg"> <img src="https://img.shields.io/badge/DEBIAN-11-red.svg"><br> <img src="https://img.shields.io/badge/UBUNTU-18.04-blue.svg"> <img src="https://img.shields.io/badge/UBUNTU-20.04-blue.svg"> <img src="https://img.shields.io/badge/UBUNTU-22.04-blue.svg"></p>
+
 ![alt text](https://raw.githubusercontent.com/kurosewu/multi/main/pict/IMG_20221021_141336.jpg)
 
 <br>
