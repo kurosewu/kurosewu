@@ -71,5 +71,5 @@ wget -q https://raw.githubusercontent.com/kurosewu/dogter/master/bbr.sh && chmod
 ```
 <b>Alternative To Install BBR If It's An Error</b>
 ```
-curl -o https://raw.githubusercontent.com/kurosewu/dogter/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh && rm bbr.sh && rm install_bbr.log
+curl -o bbr.sh https://raw.githubusercontent.com/kurosewu/dogter/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh && rm bbr.sh && rm install_bbr.log
 ```
