@@ -20,7 +20,7 @@
 # OS Supported
 * <b>DEBIAN</b>
 * `Debian 9` (<b>Stretch</b>) ✓
-* `Debian 10` (<b>Buster</b>) ✓ (<b>recommended</b>)
+* `Debian 10` (<b>Buster</b>) ✓
 * `Debian 11` (<b>Bullseye</b>) ✓
 * <b>UBUNTU</b>
 * `Ubuntu 18.04` (<b>Bionic Beaver</b>) ✓
@@ -31,7 +31,7 @@
 * `New VPS / Fresh`
 * `VPS KVM/XEN Minimum 1GB RAM`
 * `HDD Minimum 10GB`
-* `Kernel amd64`
+* `Kernel amd64 / generic`
 * `Domain From Cloudflare`
 
 # Active Ports
@@ -50,7 +50,7 @@
 
 # Commands & Other Features
 * Type `menu` to enter features
-* Added menu for`backup` & `restore`
+* Added manual menu for data `backup` & `restore`
 
 # Copy & Paste Script
 <b>The First Step</b>
